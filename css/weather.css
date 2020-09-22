@@ -1,0 +1,12 @@
+.js-weather {
+  position: absolute;
+  font-size: 20px;
+  top: 0px;
+  right: 0px;
+  margin-right: 25px;
+  margin-top: 10px;
+}
+
+#loc {
+  font-size: 12px;
+}

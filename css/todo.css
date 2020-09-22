@@ -1,0 +1,20 @@
+.js-toDoForm {
+  margin-top: 60px;
+}
+
+.js-toDoForm div {
+  font-size: 30px;
+}
+
+.js-todoList {
+  margin-top: 15px;
+}
+
+.js-todoList li {
+  margin-bottom: 15px;
+}
+
+.todo_btn {
+  cursor: pointer;
+  margin-left: 10px;
+}
